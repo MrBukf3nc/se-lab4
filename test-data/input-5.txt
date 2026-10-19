@@ -1,0 +1,2 @@
+GT4500,4,0,0,0  #kilojuk az osszeset az elsodleges helyrol
+TORPEDO,ALL
